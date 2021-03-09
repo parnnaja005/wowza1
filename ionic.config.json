@@ -1,0 +1,7 @@
+{
+  "name": "OWO",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
